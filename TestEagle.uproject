@@ -20,6 +20,15 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "PixelStreaming",
+			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows",
+		"HoloLens",
+		"Android"
 	]
 }
